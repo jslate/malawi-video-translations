@@ -1,53 +1,51 @@
 1
 01:00:00,000 --> 01:00:05,083
-<b>Am Group Village heaman Chipanthenga</b>
+<b>I am Chipanthenga and I am a village headman.</b>
 
 2
 01:00:05,500 --> 01:00:10,916
-<b>speaking about Water issues as we were at the river</b>
+<b>I'm speaking about water issues as we are at the river.</b>
 
 3
 01:00:11,625 --> 01:00:23,041
-<b>Am  surounded by four villages namely; </b>
-<b>Mayola,Julious,Amndinda and Chiyani</b>
+<b>I am surounded by four villages, namely, </b>
+<b>Mayola, Julious, Amndinda, and Chiyani.</b>
 
 4
 01:00:23,333 --> 01:00:28,208
-<b>We have been struggling with dirty water for a longer time</b>
+<b>We have been struggling with dirty water for a long time.</b>
 
 5
 01:00:30,291 --> 01:00:37,625
-<b>All the villages I have mentioned, We came here 1976 from </b>
-<b>Lilongwe to T/A WIMBE in Kasungu. </b>
+<b>We came from Lilongwe to settle in these villages</b>
+<b>in Kasungu in 1976.</b>
 
 6
 01:00:38,541 --> 01:00:44,500
-<b>but the water challenges in my village never end .We try to </b>
-<b>raise our Petitions for a long time</b>
+<b>The water challenges in my villages never end. We have</b>
+<b>tried to raise our concerns for a long time</b>
 
 7
 01:00:44,500 --> 01:00:59,000
 <b>Men from all the villages are still escorting their wives to</b>
-<b> the river ,protecting them from Wild animals</b>
+<b>the river, protecting them from wild animals</b>
 
 8
 01:00:59,000 --> 01:01:11,666
-<b>We are requesting if possible. If there are organizations </b>
-<b>those that help people, those which know the starvation of </b>
-<b>people</b>
+<b>We are requesting help if possible. We are looking for</b>
+<b>organizations that understand the problems we are facing.</b>
 
 9
 01:01:11,666 --> 01:01:25,916
-<b>They have to help my Community.The major  problem in my </b>
-<b>village is Safe wa</b>
+<b>They have to help my community. The major problem in my</b>
+<b>villages is safe water.</b>
 
 10
 01:01:26,000 --> 01:01:36,208
-<b>as we speak women are not sleeping because of fetching </b>
-<b>water,</b>
+<b>As we speak women are not sleeping because they are fetching</b>
+<b>water.</b>
 
 11
 01:01:36,208 --> 01:01:41,291
-<b>We tried to reach out our Councolor ,Our MP submitting our </b>
-<b>problems</b>
-
+<b>We have tried to reach out our counselor and our</b>
+<b>Member of Parliment to explain our problems</b>
