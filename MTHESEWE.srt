@@ -1,26 +1,25 @@
 1
 01:00:00,000 --> 01:00:03,000
-<b> I am village headman Mthesewe.</b>
+<b>I am village headman Mthesewe.</b>
 
 2
 01:00:03,000 --> 01:00:11,666
-<b>There are five villages that fetch water at this River</b>
+<b>There are five villages that fetch water at this river.</b>
 
 3
 01:00:11,666 --> 01:00:17,541
-<b>when this river dries up then things become very hard</b>
+<b>When this river dries up then things become very hard.</b>
 
 4
 01:00:17,541 --> 01:00:22,416
-<b>We are looking for well wishers to support us ,so that we </b>
+<b>We are looking for well wishers to support us, so that we</b>
 <b>can be drinking safe water here.</b>
 
 5
 01:00:22,416 --> 01:00:29,125
-<b>as it is we are drinking together with dogs and pigs.</b>
+<b>As it is we are drinking together with dogs and pigs.</b>
 
 6
 01:00:29,125 --> 01:00:39,500
 <b>This is why we are looking for wellwishers to help us to </b>
-<b>have clean and safe water.Thank you</b>
-
+<b>have clean and safe water. Thank you</b>

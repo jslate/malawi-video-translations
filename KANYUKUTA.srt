@@ -1,19 +1,18 @@
 1
 01:00:00,000 --> 01:00:09,125
-<b>I am Amosi Phiri, I live at kanyukuta village</b>
+<b>I am Amosi Phiri, I live in Kanyukuta Village</b>
 
 2
 01:00:09,125 --> 01:00:20,291
-<b>We have water challenges.We are drinking dirty water and </b>
-<b>animals drink water on the same well.</b>
+<b>We have water challenges. We are drinking dirty water and</b>
+<b>animals drink water from the same well.</b>
 
 3
 01:00:20,291 --> 01:00:38,125
-<b>during the rainy season, we drink contaminated water and </b>
+<b>during the rainy season, we drink contaminated water and</b>
 <b>diarrhea cases increase.</b>
 
 4
 01:00:38,125 --> 01:00:39,500
-<b>The reports we are hearing on the social media and radios </b>
-<b>concerning Cholera outbreak</b>
-
+<b>We are hearing reports on social media and the radio </b>
+<b>concerning the Cholera outbreak.</b>
