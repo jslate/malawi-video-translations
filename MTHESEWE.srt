@@ -22,4 +22,4 @@
 6
 01:00:29,125 --> 01:00:39,500
 <b>This is why we are looking for wellwishers to help us to </b>
-<b>have clean and safe water. Thank you</b>
+<b>have clean and safe water. Thank you.</b>
