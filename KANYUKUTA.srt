@@ -9,7 +9,7 @@
 
 3
 01:00:20,291 --> 01:00:38,125
-<b>during the rainy season, we drink contaminated water and</b>
+<b>During the rainy season, we drink contaminated water and</b>
 <b>diarrhea cases increase.</b>
 
 4
