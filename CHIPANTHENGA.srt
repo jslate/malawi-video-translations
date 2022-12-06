@@ -23,12 +23,12 @@
 6
 01:00:38,541 --> 01:00:44,500
 <b>The water challenges in my villages never end. We have</b>
-<b>tried to raise our concerns for a long time</b>
+<b>tried to raise our concerns for a long time.</b>
 
 7
 01:00:44,500 --> 01:00:59,000
 <b>Men from all the villages are still escorting their wives to</b>
-<b>the river, protecting them from wild animals</b>
+<b>the river, protecting them from wild animals.</b>
 
 8
 01:00:59,000 --> 01:01:11,666
@@ -48,4 +48,4 @@
 11
 01:01:36,208 --> 01:01:41,291
 <b>We have tried to reach out our counselor and our</b>
-<b>Member of Parliment to explain our problems</b>
+<b>Member of Parliment to explain our problems.</b>
