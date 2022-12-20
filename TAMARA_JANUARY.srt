@@ -20,8 +20,8 @@
 5
 01:00:24,125 --> 01:00:33,500
 <b>I told him, "Let's go so you can see for yourself where we</b>
-<b>fetch water." We meet men who fetch water for their nurseries</b>
-<b>and vegetable gardens but he did not understand.</b>
+<b>fetch water." We meet men who fetch water for their</b>
+<b>nurseries and vegetable gardens but he did not understand.</b>
 
 6
 01:00:33,500 --> 01:00:40,750
