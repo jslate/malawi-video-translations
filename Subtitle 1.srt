@@ -4,7 +4,8 @@
 
 2
 01:00:21,208 --> 01:00:23,291
-<b>I stay at Mapalwe village ,Senior group Msiwa </b>
+<b>I stay at Mapalwe Village, Senior group Msiwa</b>
+
 
 3
 01:00:25,291 --> 01:00:27,083
